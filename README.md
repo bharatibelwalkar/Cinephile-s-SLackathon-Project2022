@@ -21,7 +21,7 @@ This submission idea stemmed from my desire to hopefully help those who want to 
 
 
 
-How can technology help?
+## How can technology help?
 I wish I were proficient in data science during my masters back in early 2010s (note: I am still not very good but trying) to be able to solve this problem for me back then. My Plan is to use Python for analyses. I am yet to fully strategize how I plan to run the needed analysis, but here's how I think it will go: (a) clean each OTT data file, (b) merge them and remove redundancies (i.e., movies/shows common across all OTTs), (c) run descriptive analyses on the remaining unique entries based on variables of interest, (d) compare them to the 1927-2020 Oscars Award list, and lastly (e) inspect the results in the light of their pricing model. 
 
 
