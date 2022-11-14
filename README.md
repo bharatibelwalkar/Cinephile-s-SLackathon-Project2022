@@ -59,6 +59,11 @@ https://youtu.be/GrAeod8awZg
 
 
 
+## Summary Results
+![image](https://user-images.githubusercontent.com/114754459/201622666-189e5c72-9998-48b3-a725-96ac9a116c45.png)      
+
+
+
 ## Updated References:
 1. Lad, A., Butala, S., & Bide, P. (2019, November). A comparative analysis of over-the-top platforms: Amazon Prime Video and Netflix. In International Conference on Communication and Intelligent Systems (pp. 283-299). Springer, Singapore.
 2. Insider Intelligence (2022). Top OTT video streaming services in 2022 by viewer count and growth. Retrived from: https://www.insiderintelligence.com/insights/ott-video-streaming-services/
