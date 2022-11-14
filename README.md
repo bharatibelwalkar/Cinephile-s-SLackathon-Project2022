@@ -41,13 +41,13 @@ A total of 236 content offerings were common across at least two of the OTT prov
 ![image](https://user-images.githubusercontent.com/114754459/201597908-9d43e232-44aa-4e35-b509-0480414b5083.png)    
 Here you will see the number of overlapping offerings across these 3 OTT platforms by *Content Type*:    
 ![image](https://user-images.githubusercontent.com/114754459/201597390-70b69424-4a30-488a-a8dc-59eb57bcb78d.png)   
-Amazon Prime and Netflix have a comparatively higher content overlap although it accounts for just 2-3% of their total offerings. Note. The percentage was calculated from comparing n = 201 out of the total movies/TV shows both OTT platforms offer (9668 Amazon Prime / 8807 Netflix). On the other hand, Hulu and Disney+ offer fairly unique content with very little overlap with the other OTT platforms. So, ***in terms of uniqueness of the content, Disney+ ranks at the top***. This made me wonder if Disney+ is justified in charging close to 15USD monthly to its subscribers.   
+Amazon Prime and Netflix have a comparatively higher content overlap although it accounts for just 2-3% of their total offerings. Note. The percentage was calculated from comparing n = 201 out of the total number of movies/TV shows both OTT platforms offer (9668 Amazon Prime / 8807 Netflix). On the other hand, Hulu and Disney+ offer fairly unique content with very little overlap with the other OTT platforms. So, ***in terms of uniqueness of the content, Disney+ ranks at the top***. This made me wonder if Disney+ is justified in charging close to 15USD monthly to its subscribers.   
    
 (5) Now, I needed to check the quantity and variety of the UNIQUE content across these four OTT platforms. This step included a few Python coding tasks:    
    (5.1) Combining all four data files into a single csv file   
    (5.2) Identifying and removing redundant entries (which was done in Step 4)   
    (5.1) Saving all unique entries from all OTT platforms into a single usable file   
-Note. I quickly realized that Python coding from this point on was tunring cumbersome, so I decided to run my summary analyses in Tableau Public. To me, it offered the ease of working with such a large dataset + it would help me present my results in a very palatable manner.    
+Note. I quickly realized that Python coding from this point on was getting more cumbersome, so I decided to continue my summary analyses in Tableau. To me, it offered the ease of working on such a large dataset + it has helped me present my results in a very palatable manner.    
 
 ***For more information, check out Cinephile's SLackathon-Project2022 Tableau Dashboard here: https://public.tableau.com/app/profile/bharati.b.belwalkar/viz/shared/XD62DWCYR***   
 
