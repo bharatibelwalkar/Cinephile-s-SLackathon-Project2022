@@ -55,22 +55,7 @@ Note. I quickly realized that Python coding from this point on was tunring cumbe
 
 ## Demo video   
 https://youtu.be/GrAeod8awZg   
-
-
-   
-
-
-   
-
-
-
-
-
-
-
-
-
-
+***For best viewing experience, watch the demo video at x1.5 speed.***   
 
 
 
